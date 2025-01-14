@@ -296,8 +296,8 @@ async fn scan_slot_project(
             owner: owner_result,
             value: value_result,
             account: "".to_string(),
-            value_in_yielder: "".to_string(),
-            value_in_offsetter: "".to_string(),
+            value_in_yielder: "0".to_string(),
+            value_in_offsetter: "0".to_string(),
         };
 
         slot_map.insert(token_id, token);
@@ -438,21 +438,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         },
     ];
 
-    // let mut results = HashMap::new();
+    let mut results = HashMap::new();
 
-    // for project in project_addresses {
-    //     let token_data = scan_slot_project(&provider, &project).await?;
-    //     results.insert(project.address.to_hex_string(), token_data);
-    // }
+    for project in project_addresses {
+        let token_data = scan_slot_project(&provider, &project).await?;
+        results.insert(project.name, token_data);
+    }
 
-    // let json_output = json!(results);
-    // //println!("\nResults JSON:");
-    // //println!("{}", serde_json::to_string_pretty(&json_output)?);
+    let json_output = json!(results);
+    //println!("\nResults JSON:");
+    //println!("{}", serde_json::to_string_pretty(&json_output)?);
 
-    // std::fs::write(
-    //     "output/sv2.json",
-    //     serde_json::to_string_pretty(&json_output)?,
-    // )?;
+    std::fs::write(
+        "output/sv2.json",
+        serde_json::to_string_pretty(&json_output)?,
+    )?;
 
     // v1 projects
     let project_addresses = vec![
