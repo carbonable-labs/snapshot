@@ -1,7 +1,3 @@
-import { hash } from "starknet";
-import { keys, map } from "lodash";
-import { type, version } from "os";
-
 import { appendFile } from "node:fs";
 
 export const config = {
@@ -75,13 +71,10 @@ export default async function transform(block: BlockData) {
     });
   });
 
-  appendFile("message.txt", JSON.stringify(ret) + "\n", (err) => {
-    if (err) throw err;
-    console.log('The "data to append" was appended to file!');
-  });
-
   return ret;
-} // Define the top-level interface for the entire array
+}
+
+// Define the top-level interface for the entire array
 interface BlockData {
   status: string;
   events: Event[];
