@@ -32,6 +32,28 @@ export const config = {
           "0x9149d2123147c5f43d258257fef0b7b969db78269369ebcf5ebb9eef8592f2",
         ],
       },
+
+      {
+        fromAddress:
+          "0x0324b531f731100b494e2f978a26b20b5870585dd96d9f1166b43a28ebbb8aba",
+        keys: [
+          "0x9149d2123147c5f43d258257fef0b7b969db78269369ebcf5ebb9eef8592f2",
+        ],
+      },
+      {
+        fromAddress:
+          "0x022f40128af9798a0b734874fd993bbab6cf75845f26f844cb151b7041132c6d",
+        keys: [
+          "0x9149d2123147c5f43d258257fef0b7b969db78269369ebcf5ebb9eef8592f2",
+        ],
+      },
+      {
+        fromAddress:
+          "0x04258037980fcc15083cde324abe1861ac00d4d48b7d60d76b5efd6f57e59e73",
+        keys: [
+          "0x9149d2123147c5f43d258257fef0b7b969db78269369ebcf5ebb9eef8592f2",
+        ],
+      },
     ],
   },
   sinkType: "console",
