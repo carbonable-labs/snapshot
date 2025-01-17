@@ -1,0 +1,32 @@
+{
+  "0x145a829cf6ec2b082b62ed328cb022c8a263ff68229b6da69026ad5f7a962c5": {
+    "value": 220000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56": {
+    "value": 550000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1": {
+    "value": 440000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x654ac59e25dec1699d7b86d1f0d552b233f192c915386cc014407b90f981d01": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x686e466dfbabb78f361ca6a72fedeb3fa69d047d813b8dc020a779b8906566d": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0xfe6ce6ef77f43a4545b01aa4be9443c2edc07c27c5ef380f6ccd2d06bb74b2": {
+    "value": 220000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  }
+}

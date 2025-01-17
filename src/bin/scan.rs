@@ -426,8 +426,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             name: "Manjarisoa".to_string(),
             slot: felt!("0x3"),
             address: felt!("0x0516d0acb6341dcc567e85dc90c8f64e0c33d3daba0a310157d6bba0656c8769"),
-            yielder: felt!("0x03d25473be5a6316f351e8f964d0c303357c006f7107779f648d9879b7c6d58a"),
-            offsetter: felt!("0x0324b531f731100b494e2f978a26b20b5870585dd96d9f1166b43a28ebbb8aba"),
+            yielder: felt!("0x03afe61732ed9b226309775ac4705129319729d3bee81da5632146ffd72652ae"),
+            offsetter: felt!("0x04258037980fcc15083cde324abe1861ac00d4d48b7d60d76b5efd6f57e59e73"),
         },
         ProjectInfo {
             name: "Karathuru".to_string(),
@@ -497,7 +497,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     for project in project_addresses {
         let token_data = scan_project(&provider, &project).await?;
-        results.insert(project.address.to_hex_string(), token_data);
+        results.insert(project.name, token_data);
     }
 
     let json_output = json!(results);

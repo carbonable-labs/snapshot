@@ -1,0 +1,52 @@
+{
+  "0x1f416462ca4d2708f8c87d863df39564f20eee0d449be5d9eec53b7b078512a": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x370660355e3da29de8c48e88cb63a61d197609ed2f2a93a6b883667f6380b83": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd": {
+    "value": 1650000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56": {
+    "value": 550000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x499af18d1540f014281684da97c18c05bd29464dc26c2a9e998d2e15717067c": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1": {
+    "value": 1100000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x73cce8c58b9aeb40959754974b72329d0d109acf21da3b88c26627f6cccf486": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x74524b525ba2f72fb1d853d620e6e1885350bf6c756aab6121968aeb38dbcdb": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x796033f61c09532589a3ba151330fbcbcf8cf828daf9f884244b5755b9a8da6": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x7dee91fb809070495434191dd1a9a45cbc5e3a5a847f6b276bcc336216d6fdb": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  }
+}
