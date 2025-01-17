@@ -1,5 +1,5 @@
 {
-  "0x4047810e4f759336f941a16b6de9d8d2f934e976b9a9431a2964646df9025c6": {
+  "BanegasFarm": {
     "110000000": {
       "132": {
         "account": "false",
@@ -108,7 +108,270 @@
       }
     }
   },
-  "0x541b5dd5fae206ceccaf4eeb0642e4c04d456c5bc296eab047c9414bdad4f09": {
+  "LasDelicias": {
+    "110000000": {
+      "118": {
+        "account": "false",
+        "owner": "0x7dee91fb809070495434191dd1a9a45cbc5e3a5a847f6b276bcc336216d6fdb",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "121": {
+        "account": "false",
+        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "122": {
+        "account": "false",
+        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "123": {
+        "account": "false",
+        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "124": {
+        "account": "false",
+        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "125": {
+        "account": "false",
+        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "132": {
+        "account": "false",
+        "owner": "0x370660355e3da29de8c48e88cb63a61d197609ed2f2a93a6b883667f6380b83",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "204": {
+        "account": "false",
+        "owner": "0x1f416462ca4d2708f8c87d863df39564f20eee0d449be5d9eec53b7b078512a",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "219": {
+        "account": "true",
+        "owner": "0x499af18d1540f014281684da97c18c05bd29464dc26c2a9e998d2e15717067c",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "220": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "231": {
+        "account": "false",
+        "owner": "0x73cce8c58b9aeb40959754974b72329d0d109acf21da3b88c26627f6cccf486",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "253": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "254": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "255": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "256": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "257": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "259": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "260": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "261": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "262": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "263": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "269": {
+        "account": "true",
+        "owner": "0x796033f61c09532589a3ba151330fbcbcf8cf828daf9f884244b5755b9a8da6",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "273": {
+        "account": "false",
+        "owner": "0x74524b525ba2f72fb1d853d620e6e1885350bf6c756aab6121968aeb38dbcdb",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "274": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "275": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "276": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "277": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "278": {
+        "account": "true",
+        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "29": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "31": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "333": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "336": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "337": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "338": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "36": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "40": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      },
+      "53": {
+        "account": "true",
+        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
+        "value": "110000000",
+        "value_in_offsetter": "0",
+        "value_in_yielder": "0"
+      }
+    }
+  },
+  "ManjarisoBronze": {
     "54500000": {
       "109": {
         "account": "true",
@@ -525,7 +788,10 @@
       }
     }
   },
-  "0x6191013bbd6bcf11d69f3d60d20f7aa03439d7011bd511d13122de2275dce21": {
+  "ManjarisoGold": {
+    "817500000": {}
+  },
+  "ManjarisoSilver": {
     "272500000": {
       "27": {
         "account": "false",
@@ -566,272 +832,6 @@
         "account": "true",
         "owner": "0x44a4cf62fec355adba9ba1f3122a08c6ccf7819d524efb7ca549ca06244cc3d",
         "value": "272500000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      }
-    }
-  },
-  "0x61bcc33b0469cd072ad47813a1efd250fd36a28425d774c31c8f33c87306e8e": {
-    "817500000": {}
-  },
-  "0xebf4bbab9c934fa0212c9358331d4a9543ad66a7e0007d4a720cfa6b56061e": {
-    "110000000": {
-      "118": {
-        "account": "false",
-        "owner": "0x7dee91fb809070495434191dd1a9a45cbc5e3a5a847f6b276bcc336216d6fdb",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "121": {
-        "account": "false",
-        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "122": {
-        "account": "false",
-        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "123": {
-        "account": "false",
-        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "124": {
-        "account": "false",
-        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "125": {
-        "account": "false",
-        "owner": "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "132": {
-        "account": "false",
-        "owner": "0x370660355e3da29de8c48e88cb63a61d197609ed2f2a93a6b883667f6380b83",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "204": {
-        "account": "false",
-        "owner": "0x1f416462ca4d2708f8c87d863df39564f20eee0d449be5d9eec53b7b078512a",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "219": {
-        "account": "true",
-        "owner": "0x499af18d1540f014281684da97c18c05bd29464dc26c2a9e998d2e15717067c",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "220": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "231": {
-        "account": "false",
-        "owner": "0x73cce8c58b9aeb40959754974b72329d0d109acf21da3b88c26627f6cccf486",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "253": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "254": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "255": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "256": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "257": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "259": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "260": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "261": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "262": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "263": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "269": {
-        "account": "true",
-        "owner": "0x796033f61c09532589a3ba151330fbcbcf8cf828daf9f884244b5755b9a8da6",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "273": {
-        "account": "false",
-        "owner": "0x74524b525ba2f72fb1d853d620e6e1885350bf6c756aab6121968aeb38dbcdb",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "274": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "275": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "276": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "277": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "278": {
-        "account": "true",
-        "owner": "0x38d91feb1ff00f40601a253427a35be03843ff6bec15465ed1b63a5b86689dd",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "29": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "31": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "333": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "336": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "337": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "338": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "36": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "40": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
-        "value_in_offsetter": "0",
-        "value_in_yielder": "0"
-      },
-      "53": {
-        "account": "true",
-        "owner": "0x5a157b51d250b3aa5a6e29bc9c1a7667a45341e7b6952c5db02b9008f1f7ff1",
-        "value": "110000000",
         "value_in_offsetter": "0",
         "value_in_yielder": "0"
       }

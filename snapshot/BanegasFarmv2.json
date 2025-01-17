@@ -1,0 +1,307 @@
+{
+  "0x103929ab09b0a2576f7c30899a218dadc6b640a1fd6e7d35801c325e4a7abdd": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x104bb96fde91c411f18352c382d3005a8ccb47e732e40576a8180a06a4e9327": {
+    "value": 220000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x112c670a3911cc20e0481a59925fe679d7e515b9cd703b5c15724e26d9aa9fd": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x1517e7f2c4071b1a6f1229668856740fdbf624317b054513dc0514a7fed795f": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x168d70dce76cfa0e5791ab569ce35e8c160b3bbc869f1d6015d3097e69b28ae": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x16b9f1298626a8d3fc677cfd157f1bca9c684af1440db0423d905f11467da32": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x170e1009abbc8746ec3eb5bf2538692b94f11a0cb997c495e23eac04daae76d": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x19b68925cf5e7d85c115c8ecd14a15d35618d7305a8604bd143654e4a6ced2d": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x1bc05bc2fd5892e2b0f4f6cef09e083ab1b333b23f41775ed163d53f353038d": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x21faa339e6d57b41512b40b2736b6ef8c0d99683137ae3fb69b9558e54f003f": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 440000000
+  },
+  "0x22ab08f949f2a8a4a73408050fee73551a57a474fa5ce89d09635939073ca56": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x22b3840acceb9698a3e22bd602d63c8f7666c0aaba488a92253931ba4539c94": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x234fc3e821251e86c2469bc1e816c6cd39f8ee7c62b6eac06a1e2c78c965b65": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x23553c5e79f2eec98b299f4f9548c37d32d789e5928928df3562aa50c0045cc": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x24ef4863394ee5866b251d6f06ca68a7f11117bb8a58a72fd1e129fb7c6c71b": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x267fc87c72aaea3037427cb5714cab84eb1d8cb93b4b170b8e3beb172adf0e": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x2dcb771b09776d7dfbd93fb828c93dcc8205177aed0ccedebb34301e8f2a347": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x2efa82386cc57c8d3f4eff01fc21b4f9086d8cce719ba3887a0a25b2210d147": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x2fa93277e68abc9c913e8e4098979842fe66c0760ad13702ed7f51d61499e12": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x302f374fe0031e7a1c82432f9396e9d1429eb460b2c51e0090497ecf8e92214": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x310e4957c217f27688a4b16e04ee2b04a5c7a2f10978165bc85c41e1f54be75": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x324b531f731100b494e2f978a26b20b5870585dd96d9f1166b43a28ebbb8aba": {
+    "value": 160000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x35affd3fb268be180a2156c29d3ce444d952b55d0cad4185b093930d531f936": {
+    "value": 220000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x3cf63b8761a95c5fd9a9c95885ae9eb92321c811160106fdbde6c082a6dfaa5": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x3d25473be5a6316f351e8f964d0c303357c006f7107779f648d9879b7c6d58a": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x3eb9f7560d47ae84910617353469ec44ddc03d99b8ed76b3309d012ebb13dd9": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x423965a57ea563c05678ceadc6cfabfc2b3f3bcdf44806f09671d9449bbd92": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x435c82160ec7543ebc5823e7fc6241336182194dbbd59bb588596a3b426ae6f": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x44536daaa17e4b0db9a1bad1b829d927402cfe298ba7e4a6c68457f28325406": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x49cf0ea2b297289d55b1f85de2587f71c981b55e2aab908638402eee1dc9b21": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x4d79daf7616104dedf557d4e3d322bef01071b561e6c1d9d1d55a3a9d0491ee": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x50816b4501681e4f21cc0eed290cdbc81452bcd71bbc9d92997cb158c1b6b12": {
+    "value": 0,
+    "value_offset": 110000000,
+    "value_yielder": 0
+  },
+  "0x50ce73e339275d5a33dab1d51b9af882156db696760e8ea7ac0e83c1ec84cd9": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x515cb2995d2538ad307c3c1d726324ee59b23ea2cf6436dbc46493c85bc4cff": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 770000000
+  },
+  "0x56e1008e68a23fa10958e234b65c99153bc5a7cb2d0244d808375861936cf3d": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x5d2971abb584dfb66b6a1a70480a770531a79d7c437e5bcbd5a2f29b6144409": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x5d9f16ce844f97a2593a582e48ca8bad78327c6fa4aa6f34ab515658b9dea9e": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x5e92f39be3f25d443b88084074991d27614437ba5fdafdcc898918abb542cb1": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x5f997bab8000fb670d98c2f1fc519d5e905fe4a92a00f29a2b075bcbe148c58": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x617b15a469dfe1e0230c265a5fd8c71c0759c556e2c1573449728e077733d73": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x61a2a9e8a90aecfb299ac6e271e159ddf5c4784e5e3becd2ed1ff17e807618b": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x61a81d6470249f8c70cbde0ef83f81d707f38f918ecffb31c3b4850b398b1c4": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x61b6c0a78f9edf13cea17b50719f3344533fadd470b8cb29c2b4318014f52d3": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x6354e0ddfc242eee386bc127393a6db689827e78c60df43b4745acad0599584": {
+    "value": 0,
+    "value_offset": 50000000,
+    "value_yielder": 500000000
+  },
+  "0x636730478c8637c12367d76dfac7a9fbbbc1bcafdd61109a91baea60fb68056": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x650628156dfeb66f9ad24033fce8b7e9375b5339c0e31fb2476446257425337": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x6624cc81d8e8b8c1430a6a5f95768d01859173bed4bf666dceb39b61d4ff113": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x668085eab9e498e5691f7f806a0d8cb9ecd842941ab72e5fafd8841dcbbeb2a": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 550000000
+  },
+  "0x66be756b370997a521bcabd47c07f31c9a603f85e16c7b793a32256d256b4b5": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x6befcbc2ec8d7cc808758b174fb2a53c24e42234b5cec25ee3d2d7790145b0b": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x6e2b1ea0ec765fa42402b4d339d19b23a5c5e936f6ee8e3a16f6e11ed05ac0c": {
+    "value": 220000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x6f061fbdc40bd939de5dc83a0a03bf04a343911274e36188d00ddc97f8dfd17": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 330000000
+  },
+  "0x6fe0fe3c247c595a0b92c4b8036cd8e610fd5bab442a352b727b48baabb0cc5": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x7053b439425ea2d8b42dc10e40468c2917c08c01372a3d5b44cca522600b44d": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x706b6a1a3d7a67ce2371c034d5245f8a14416c86388e8fd275f920b91c0b78": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 330000000
+  },
+  "0x7330264374db0cddf42b1a7d91c4c48ec719d3957cf822d3abff0bb1ac31817": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x765c0bfcb5ac32c224fc82085cb3d3742793154c4b355908245bb886862f4cc": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x79a893a91f0d0916b632d33912a2fb349b0857a50771b28f3fd90deddf10775": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  },
+  "0x7a740a931a29cf019654b74f33a8da75cb615d7f3159835f9beadfd1f3b9486": {
+    "value": 110000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x7db03e5c6060e9de1f2917a0be7cc5738f7892b39739a618c049717421f5660": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 110000000
+  },
+  "0x7fbdf0ac3d6eeea2909eef71e43fa459bd4e339fdbe1614f9bc8ca916cdae0e": {
+    "value": 0,
+    "value_offset": 0,
+    "value_yielder": 220000000
+  }
+}

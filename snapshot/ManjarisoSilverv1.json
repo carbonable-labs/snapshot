@@ -1,0 +1,27 @@
+{
+  "0x2c38fbe01d0ea64e7861a463255da73164a6e04e1713ef7a81507787230af43": {
+    "value": 272500000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x35affd3fb268be180a2156c29d3ce444d952b55d0cad4185b093930d531f936": {
+    "value": 272500000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x398235339f86c7f7c028b64b9074d5b4f0f6364a891217bfa693f3cac495e56": {
+    "value": 272500000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x44a4cf62fec355adba9ba1f3122a08c6ccf7819d524efb7ca549ca06244cc3d": {
+    "value": 545000000,
+    "value_offset": 0,
+    "value_yielder": 0
+  },
+  "0x5547e736cc915ef3f475508a624d9c3c33da5856b23fe9d99f487dacea67a13": {
+    "value": 272500000,
+    "value_offset": 0,
+    "value_yielder": 0
+  }
+}
