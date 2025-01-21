@@ -1,5 +1,4 @@
 use std::{
-    collections::HashMap,
     fs::File,
     io::{BufRead, BufReader},
 };
@@ -67,7 +66,7 @@ async fn get_deposited(provider: &JsonRpcClient<HttpTransport>, farm_address: &s
 
     let result = aggregate_calls(provider, calls).await.unwrap();
     let mut total = 0;
-    for (addr, res) in addrs.iter().zip(result[2..].chunks(2)) {
+    for (_, res) in addrs.iter().zip(result[2..].chunks(2)) {
         total += res[0].to_bigint().to_string().parse::<u64>().unwrap();
     }
     println!(
