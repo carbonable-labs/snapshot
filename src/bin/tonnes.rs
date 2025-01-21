@@ -88,12 +88,12 @@ fn compute_amount(
             let value_offset: u128 = token_info["value_offset"].as_u64().unwrap().into();
             let value_yielder: u128 = token_info["value_yielder"].as_u64().unwrap().into();
 
+            let new_value = value + value_offset + value_yielder;
+            if new_value == 0 {
+                continue;
+            }
             let current = *amount_map.entry(owner.to_owned()).or_insert(0_u128);
-            let additional = if current == 0 {
-                value + value_offset + value_yielder
-            } else {
-                value
-            };
+            let additional = if current == 0 { new_value } else { value };
 
             let amount: u128 = current + (additional * total_tonnes) / total_value;
             amount_map.insert(owner.to_owned(), amount);
@@ -102,7 +102,7 @@ fn compute_amount(
 
     let mut total_value_handled = 0;
     let mut total_tonnes_handled = 0;
-    for amount in amount_map.values() {
+    for (_, amount) in amount_map.iter() {
         total_value_handled += amount * total_value / total_tonnes;
         total_tonnes_handled += amount
     }
@@ -118,13 +118,13 @@ fn compute_amount(
     println!(
         "Total tonnes handled for {} is {} out of {} tonnes",
         project,
-        total_tonnes_handled / 1,
-        total_tonnes / 1
+        total_tonnes_handled / 1_000_000_000,
+        total_tonnes / 1_000_000_000
     );
     println!(
         "Total value handled for {} is ${} out of ${}",
         project,
-        total_value_handled / 1,
-        total_value / 1
+        total_value_handled / 1_000_000,
+        total_value / 1_000_000
     );
 }
